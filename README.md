@@ -1,6 +1,11 @@
-# 🌱 about me
+# about me
 
-- 👋 Hi, I’m @nivilie
+- Hi, I’m @nivilie
+
+
+## ancoragem de links
+
+🌱: [alura](https://cursos.alura.com.br/)
 
 <!---
 nivilie/nivilie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
