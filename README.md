@@ -1,6 +1,6 @@
 # about me
 
-- Hi, I’m @nivilie
+- Oi, I’m @nivilie (yasmin)
 
 
 ## ancoragem de links
